@@ -1,7 +1,7 @@
 # Flatmates Bill
 
 ### Overview
-A script to calculate bills between 2 parties. Here the ultility bills is shared between 
+A script to calculate bills between 2 parties. Here the ultility bill is shared between 
 2 flatmates according to the number of days they had spent at home. 
 
 ### Objective
@@ -17,5 +17,6 @@ Run the main.py and input the following info:
 * name2 - Name of other flatmate
 * days_in_house2 - Second flatmate number of days at home
 
-A PDF report will be generated and stored in the File folder.
+The amount to be paid by individual flatmate will be calculated,
+generating a PDF report and stored in the File folder.
 
